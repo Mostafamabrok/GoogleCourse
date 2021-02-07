@@ -1,4 +1,4 @@
-import dady
-if Mostafa = doningNthing
+import dad
+if Mostafa = doing_nothing
   return(doCourseNow)
  
